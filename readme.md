@@ -103,11 +103,11 @@ We barely wrote any code and already we can think about our function in new ways
 
 6. YOU DO! Write more tests for:
 
-:ballot_box_with_check: `mom` is a palindrome
-:white_medium_square: `dad` is a palindrome
-:white_medium_square: `dude` is not a palindrome
-:white_medium_square: `mom mom` is a palindrome
-:white_medium_square: `dad mom` is not a palindrome
+* :ballot_box_with_check: `mom` is a palindrome
+* :white_medium_square: `dad` is a palindrome
+* :white_medium_square: `dude` is not a palindrome
+* :white_medium_square: `mom mom` is a palindrome
+* white_medium_square: `dad mom` is not a palindrome
 
 7. Run your test after writing each one. You should get `failing` for `dude` and `dad mom`.
 8. Update our `js/palindrome.js` code cause our current code is terrible:
